@@ -1,0 +1,5 @@
+1. Pindahkan file AbsenController.php yang ada di folder source_code/Controllers ke folder project app/Http/Controllers/
+
+2. Pindahkan file dataabsen.blade.php yang ada di folder source_code/resources/views/absen ke folder project resources/views/absen/
+
+3. Pindahkan file web.php yang ada di folder source_code/routes ke folder project routes/
